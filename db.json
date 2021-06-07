@@ -6,6 +6,7 @@
       "telefone" : "(84)3316-5426",
       "tipo" : "Entrega",
       "total" : "R$ 20,00 (Dinheiro)",
+      "status": "a",
       "endereco" : "Rua do Pinhão, Rincão, Mossoró, RN"
     },
     {
@@ -14,6 +15,7 @@
         "telefone" : "(84)3216-4785",
         "tipo" : "Entrega",
         "total" : "R$ 6,00 (Dinheiro)",
+        "status": "a",
         "endereco" : "Rua do Atletico, Centro, Mossoró, RN"
       },
       {
@@ -22,6 +24,7 @@
           "telefone" : "(84)4478-1245",
           "tipo" : "Entrega",
           "total" : "R$ 150,00 (Cartão)",
+          "status": "a",
           "endereco" : "Rua das Frutas, Alto de São Manuel, Mossoró, RN"
         },
         {
@@ -30,6 +33,7 @@
             "telefone" : "(84)3316-5426",
             "tipo" : "Entrega",
             "total" : "R$ 20,00 (Dinheiro)",
+            "status": "a",
             "endereco" : "Rua do Pinhão, Rincão, Mossoró, RN"
           }
 ]
